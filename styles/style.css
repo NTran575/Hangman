@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+button{
+    background-color: white;
+    color: black;
+    border: solid 1px red;
+    font-size:1.2em;
+    padding:15px 10px;
+    
+    
+}
+p{
+    font-size: 24px;
+}
